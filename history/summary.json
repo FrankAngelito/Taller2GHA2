@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken",
     "status": "down",
-    "uptime": "3.25%",
-    "uptimeDay": "3.25%",
-    "uptimeWeek": "3.25%",
-    "uptimeMonth": "3.25%",
-    "uptimeYear": "3.25%",
+    "uptime": "3.28%",
+    "uptimeDay": "3.28%",
+    "uptimeWeek": "3.28%",
+    "uptimeMonth": "3.28%",
+    "uptimeYear": "3.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 10
+      "2026-07-31": 11
     }
   }
 ]
