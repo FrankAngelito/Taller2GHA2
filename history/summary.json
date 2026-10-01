@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nytimes.com.ico",
     "slug": "new-york",
     "status": "down",
-    "uptime": "78.80%",
-    "uptimeDay": "28.00%",
+    "uptime": "78.64%",
+    "uptimeDay": "15.14%",
     "uptimeWeek": "4.45%",
-    "uptimeMonth": "56.78%",
-    "uptimeYear": "78.80%",
+    "uptimeMonth": "56.36%",
+    "uptimeYear": "78.64%",
     "time": 325,
     "timeDay": 319,
     "timeWeek": 289,
@@ -31,7 +31,7 @@
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
-      "2026-10-01": 100
+      "2026-10-01": 286
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-01": 144,
+      "2026-10-01": 329,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
