@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nytimes.com.ico",
     "slug": "new-york",
     "status": "down",
-    "uptime": "48.71%",
-    "uptimeDay": "67.13%",
+    "uptime": "48.27%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "55.29%",
-    "uptimeMonth": "13.28%",
-    "uptimeYear": "48.71%",
+    "uptimeMonth": "12.96%",
+    "uptimeYear": "48.27%",
     "time": 258,
-    "timeDay": 124,
-    "timeWeek": 206,
-    "timeMonth": 195,
+    "timeDay": 263,
+    "timeWeek": 219,
+    "timeMonth": 196,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2026-09-16": 168,
@@ -79,7 +79,8 @@
       "2026-11-16": 148,
       "2026-11-15": 170,
       "2026-11-17": 259,
-      "2026-11-18": 344
+      "2026-11-19": 420,
+      "2026-11-18": 1364
     }
   },
   {
@@ -94,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 56,
-    "timeWeek": 90,
+    "timeDay": 75,
+    "timeWeek": 91,
     "timeMonth": 90,
     "timeYear": 88,
     "dailyMinutesDown": {}
@@ -111,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 27,
-    "timeWeek": 161,
+    "time": 214,
+    "timeDay": 37,
+    "timeWeek": 138,
     "timeMonth": 223,
-    "timeYear": 216,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -129,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 301,
-    "timeWeek": 275,
-    "timeMonth": 260,
-    "timeYear": 252,
+    "time": 250,
+    "timeDay": 77,
+    "timeWeek": 245,
+    "timeMonth": 252,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -153,7 +154,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 420,
+      "2026-11-19": 420,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
